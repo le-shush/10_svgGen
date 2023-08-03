@@ -2,8 +2,8 @@
         width="200" height="200"
         xmlns="http://www.w3.org/2000/svg">
 
-        <rect width="100%" height="100%" fill="black" />
+        <rect width="100%" height="100%" fill="#235655" />
 
-        <circle cx="100" cy="100" r="80" fill="white" />
+        <circle cx="100" cy="100" r="80" fill="blue" />
 
-        <text x="100" y="100" font-size="50" text-anchor="middle" fill="red">JO</text> </svg>
+        <text x="100" y="100" font-size="50" text-anchor="middle" fill="white">JM</text> </svg>
