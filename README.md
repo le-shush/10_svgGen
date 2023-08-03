@@ -39,5 +39,5 @@ npm run test
 ```
 
 ## Questions
-If you have any questions about the repo, open an issue or contact me directly at undefined. You can find more of my work at [le-shush]
+If you have any questions about the repo, open an issue or contact me directly at undefined. You can find more of my work at [le-shush](https://github.com/le-shush)
 
